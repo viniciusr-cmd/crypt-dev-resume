@@ -1,0 +1,25 @@
+* {
+    font-family: arial,sans-serif;
+    box-sizing: border-box;
+}
+
+div {
+    margin: 3px;
+    display: inline-block;
+}
+
+.heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.paragraph {
+    font-size: 0.875rem;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+/* SSBGVUNLSU5HIEhBVEUgQ1NT */
